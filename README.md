@@ -1,1 +1,2 @@
-# Arcanist-Festival
+# Arcanist-Festival Rules
+
